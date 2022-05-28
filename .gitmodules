@@ -1,0 +1,16 @@
+[submodule "open5gs"]
+	path = open5gs
+	url = https://github.com/UmakantKulkarni/open5gs/
+	branch = 340b23a_mongo 
+[submodule "opensource-5g-core"]
+	path = opensource-5g-core
+	url = https://github.com/UmakantKulkarni/opensource-5g-core
+  branch = d763af7
+[submodule "UERANSIM"]
+	path = UERANSIM
+	url = https://github.com/UmakantKulkarni/UERANSIM
+	branch = 8e36839_v3.2.5
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/UmakantKulkarni/scripts
+  branch = c518090
